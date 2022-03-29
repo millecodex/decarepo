@@ -26,8 +26,8 @@ export class MultipleLangTrophy extends Trophy{
 I will update this as I go
     
 1. Python
-6. SQL -- appears this is **not** a language
-8. Jupyter Notebooks
-
+1. SQL -- appears this is **not** a language
+1. Jupyter Notebooks
+1. HTML
 
     
