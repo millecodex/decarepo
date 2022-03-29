@@ -23,14 +23,11 @@ export class MultipleLangTrophy extends Trophy{
 ```
     
 ## Some languages
+I will update this as I go
+    
 1. Python
-2. Typescript
-3. Go
-4. Rust
-5. C++
-6. SQL
-7. LaTeX
+6. SQL -- appears this is **not** a language
 8. Jupyter Notebooks
-9. R
-10. Julia
+
+
     
