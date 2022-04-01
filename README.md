@@ -32,5 +32,6 @@ I will update this as I go
 1. LaTeX
 1. Typescript
 1. Julia
+1. Go
 
     
