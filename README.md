@@ -33,5 +33,6 @@ I will update this as I go
 1. Typescript
 1. Julia
 1. Go
+1. C++
 
     
