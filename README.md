@@ -26,7 +26,6 @@ export class MultipleLangTrophy extends Trophy{
 I will update this as I go
     
 1. Python
-1. SQL -- appears this is **not** a language
 1. Jupyter Notebooks
 1. HTML
 1. LaTeX
@@ -36,4 +35,7 @@ I will update this as I go
 1. C++
 1. Rust
 
+## Not Languages
+These weren't recognized by github as languages
     
+1. SQL
