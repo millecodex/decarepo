@@ -34,6 +34,7 @@ I will update this as I go
 1. Go
 1. C++
 1. Rust
+1. R
 
 ## Not Languages
 These weren't recognized by github as languages
