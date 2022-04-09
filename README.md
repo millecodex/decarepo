@@ -37,6 +37,7 @@ I will update this as I go
 1. Rust
 1. R
 1. Java
+1. Solidity
    
 > HTML and LaTeX are classified as `markup` languages; all others are `programming`    
     
