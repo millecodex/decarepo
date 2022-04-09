@@ -36,6 +36,8 @@ I will update this as I go
 1. Rust
 1. R
 
+> HTML and LaTeX are classified as `markup` languages; all others are `programming`    
+    
 ## Not Languages
 These are not recognized by github as languages
     
