@@ -64,5 +64,21 @@ Additionally you can check your top ten languages by including this [snippet](ht
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millecodex&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repo Main Language Override
-If your repo is displaying a language that appears incorrect or misrepresentative you can [override](https://github.com/github/linguist/blob/master/docs/overrides.md) it.
+If your repo is displaying a language that appears incorrect or misrepresentative you can [override](https://github.com/github/linguist/blob/master/docs/overrides.md) it using a `.gitattributes` file. This one changes the largest file (jupyter notebook .ipynb) to Python:
+
+```
+# Example of a `.gitattributes` file 
+
+# this reclassifies `.ipynb` files as Python:
+src/*.ipynb linguist-language=Python
+
+# allow lingquist to detect these types
+*.md linguist-detectable
+src/*.sql linguist-detectable
+```
+
+The change is now visible in your repository overview:
+
+<img width="470" alt="change main github language using gitattributes" src="https://user-images.githubusercontent.com/39792005/162594670-8789ee41-8d2a-4ce7-84bd-bc91ef094922.PNG">
+
 
