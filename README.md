@@ -30,12 +30,13 @@ I will update this as I go
 1. HTML
 1. SQL - `data` type and so not counted
 1. LaTeX
-1. TypeScript **not counted**
+1. TypeScript
 1. Julia
 1. Go
-1. C++ **not counted**
+1. C++
 1. Rust
 1. R
+1. Java
    
 > HTML and LaTeX are classified as `markup` languages; all others are `programming`    
     
@@ -52,3 +53,5 @@ Github uses [Linguist](https://github.com/github/linguist/) to calculate languag
 Clicking on a language in the `Languages` tab will open a search result and detail all the languages that github has indexed in your repo. This is how I found that certain languages (TypeScript and C++) were being excluded.
     
 <p align="center"><img width="800" alt="github languages classification" src="https://user-images.githubusercontent.com/39792005/162554851-077a4f76-6141-4d41-8312-2afb1fd4bced.PNG"></p>
+
+A maximum of ten will be shown in the languages box (above), but you can verify others by changing the search string: https://github.com/millecodex/decarepo/search?l=typescript
