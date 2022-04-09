@@ -63,3 +63,6 @@ Additionally you can check your top ten languages by including this [snippet](ht
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millecodex&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+## Repo Main Language Override
+If your repo is displaying a language that appears incorrect or misrepresentative you can [override](https://github.com/github/linguist/blob/master/docs/overrides.md) it.
+
