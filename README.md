@@ -28,6 +28,7 @@ I will update this as I go
 1. Python
 1. Jupyter Notebooks
 1. HTML
+1. SQL
 1. LaTeX
 1. Typescript **not counted**
 1. Julia
@@ -35,16 +36,19 @@ I will update this as I go
 1. C++ **not counted**
 1. Rust
 1. R
-
-[find out what github thinks your repo looks like](https://github.com/millecodex/decarepo/search?l=Markdown&type=code)
-    
+   
 > HTML and LaTeX are classified as `markup` languages; all others are `programming`    
     
 ## Not Languages
-These are not recognized by github as languages
+These are recognized by github but not counted towards the language statistics in your repo.
     
 1. Markdown; classified as a `prose` type, recognized with a `.md` extension
 1. SQL; classified at a `data` type, recognized with a `.sql` extension
     
 ## Linguist
 Github uses [Linguist](https://github.com/github/linguist/) to calculate language percentage inside a repo. It is based on file sizes and excludes generated files, binary, and non-program (vendor) files. The list of languages identified is [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
+    
+## What Languages?
+Clicking on a language in the `Languages` tab will open a search result and detail all the languages that github has indexed in your repo. This is how I found that certain languages (Typescript and C++) were being excluded.
+    
+<p align="center"><img width="800" alt="github languages classification" src="https://user-images.githubusercontent.com/39792005/162554851-077a4f76-6141-4d41-8312-2afb1fd4bced.PNG"></p>
