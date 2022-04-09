@@ -1,0 +1,8 @@
+# Example of a `.gitattributes` file 
+
+# this reclassifies `.ipynb` files as Python:
+src/*.ipynb linguist-language=Python
+
+# allow lingquist to detect these types
+*.md linguist-detectable
+src/*.sql linguist-detectable
