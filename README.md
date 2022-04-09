@@ -39,8 +39,8 @@ I will update this as I go
 ## Not Languages
 These are not recognized by github as languages
     
-1. Markdown
-1. SQL
+1. Markdown; classified as a `prose` type, recognized with a `.md` extension
+1. SQL; classified at a `data` type, recognized with a `.sql` extension
     
 ## Linguist
-Github uses [Linguist](https://github.com/github/linguist/) to calculate language percentage inside a repo. It is based on file sizes and excludes generated files, binary, and non-program (vendor) files.
+Github uses [Linguist](https://github.com/github/linguist/) to calculate language percentage inside a repo. It is based on file sizes and excludes generated files, binary, and non-program (vendor) files. The list of languages identified is [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
