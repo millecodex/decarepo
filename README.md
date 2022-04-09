@@ -29,13 +29,15 @@ I will update this as I go
 1. Jupyter Notebooks
 1. HTML
 1. LaTeX
-1. Typescript
+1. Typescript **not counted**
 1. Julia
 1. Go
-1. C++
+1. C++ **not counted**
 1. Rust
 1. R
 
+[find out what github thinks your repo looks like](https://github.com/millecodex/decarepo/search?l=Markdown&type=code)
+    
 > HTML and LaTeX are classified as `markup` languages; all others are `programming`    
     
 ## Not Languages
