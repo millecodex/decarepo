@@ -55,3 +55,10 @@ Clicking on a language in the `Languages` tab will open a search result and deta
 <p align="center"><img width="800" alt="github languages classification" src="https://user-images.githubusercontent.com/39792005/162554851-077a4f76-6141-4d41-8312-2afb1fd4bced.PNG"></p>
 
 A maximum of ten will be shown in the languages box (above), but you can verify others by changing the search string: https://github.com/millecodex/decarepo/search?l=typescript
+
+Additionally you can check your top ten languages by including this [snippet](https://github.com/anuraghazra/github-readme-stats) and replacing the username with your own:
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millecodex&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millecodex&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
