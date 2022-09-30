@@ -29,7 +29,7 @@ I will update this as I go
 1. Jupyter Notebooks
 1. HTML
 1. SQL - `data` type and so not counted
-1. LaTeX
+1. $\LaTeX$
 1. TypeScript
 1. Julia
 1. Go
