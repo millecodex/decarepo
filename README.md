@@ -39,7 +39,7 @@ I will update this as I go
 1. Java
 1. Solidity
    
-> HTML and LaTeX are classified as `markup` languages; all others are `programming`    
+> HTML and $\LaTeX$ are classified as `markup` languages; all others are `programming`    
     
 ## Not Languages
 These are recognized by github but not counted towards the language statistics in your repo, as per Linguist.
