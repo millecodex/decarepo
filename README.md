@@ -4,7 +4,7 @@ On a quest to unlock a super trophy badge, `Rainbow Lang User`, as designed by [
     
 According to this [code](https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts) you need github to recognize 10 languages in your profile:
 
-```
+```ts
 export class MultipleLangTrophy extends Trophy{
   constructor(score: number){
     const rankConditions = [
